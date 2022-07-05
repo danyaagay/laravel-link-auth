@@ -1,0 +1,17 @@
+.header {
+	height: 44px;
+	padding: 0 20%;
+	display: flex;
+	justify-content: end;
+	align-items: center;
+}
+
+.content {
+	width: 60%;
+	margin: auto;
+	height: 44px;
+}
+
+.login-button {
+	line-height: 44px;
+}
